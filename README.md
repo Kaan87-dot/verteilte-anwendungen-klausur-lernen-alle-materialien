@@ -1,13 +1,27 @@
 # 📚 Verteilte Anwendungen - Klausur Vorbereitung
 
-## 🎯 Willkommen zu deinem Klausur-Lernpaket!
+## 🚨 NOTFALL? NUR 24 STUNDEN ZEIT?
 
-Dieses Repository enthält alle Materialien, die du brauchst, um die Klausur in Verteilte Anwendungen **perfekt zu bestehen**.
+**➡️ [NOTFALL_24H_PLAN.md](NOTFALL_24H_PLAN.md) - JETZT STARTEN!** ⏰  
+**➡️ [MINIMAL_SURVIVAL_GUIDE.md](MINIMAL_SURVIVAL_GUIDE.md) - Nur das Nötigste!** 🆘  
+**➡️ [SPICKZETTEL_STRATEGIE.md](SPICKZETTEL_STRATEGIE.md) - Spickzettel = Geheimwaffe!** 📄
 
 ---
 
-## 📋 Schnellstart - Was du zuerst tun solltest
+## 🎯 Willkommen zu deinem Klausur-Lernpaket!
 
+Dieses Repository enthält alle Materialien, die du brauchst, um die Klausur in Verteilte Anwendungen **zu bestehen**.
+
+---
+
+## 📋 Schnellstart
+
+### 🔥 NOTFALL (24 Stunden oder weniger):
+1. **[NOTFALL_24H_PLAN.md](NOTFALL_24H_PLAN.md)** - Stunde-für-Stunde Überlebensplan
+2. **[MINIMAL_SURVIVAL_GUIDE.md](MINIMAL_SURVIVAL_GUIDE.md)** - Absolute Minimum zum Bestehen
+3. **[SPICKZETTEL_STRATEGIE.md](SPICKZETTEL_STRATEGIE.md)** - Spickzettel effektiv nutzen
+
+### ⏰ Normale Vorbereitung (1-2 Wochen):
 1. **Lies die [LERNPLAN.md](LERNPLAN.md)** - Dein Schritt-für-Schritt Lernplan
 2. **Fokussiere dich auf [WICHTIGE_THEMEN.md](WICHTIGE_THEMEN.md)** - Die Themen mit den meisten Punkten
 3. **Übe mit [CODE_BEISPIELE.md](CODE_BEISPIELE.md)** - Praktische Programmierübungen
@@ -18,7 +32,13 @@ Dieses Repository enthält alle Materialien, die du brauchst, um die Klausur in 
 
 ## 📁 Dateiübersicht
 
-### 📖 Lernmaterialien (Von mir erstellt)
+### 🚨 NOTFALL-Materialien (24 Stunden oder weniger):
+
+- **[NOTFALL_24H_PLAN.md](NOTFALL_24H_PLAN.md)** - Stunde-für-Stunde Crash-Course Plan ⏰
+- **[MINIMAL_SURVIVAL_GUIDE.md](MINIMAL_SURVIVAL_GUIDE.md)** - Nur das absolute Minimum 🆘
+- **[SPICKZETTEL_STRATEGIE.md](SPICKZETTEL_STRATEGIE.md)** - Spickzettel optimal nutzen 📄
+
+### 📖 Lernmaterialien (Normale Vorbereitung):
 
 - **[LERNPLAN.md](LERNPLAN.md)** - Dein kompletter Lernplan mit Zeitschätzungen
 - **[WICHTIGE_THEMEN.md](WICHTIGE_THEMEN.md)** - HTTP, Liquibase & Docker Compose (MEISTE PUNKTE!)
