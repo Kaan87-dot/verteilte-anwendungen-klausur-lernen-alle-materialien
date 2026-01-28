@@ -2,9 +2,16 @@
 
 ## 🚨 NOTFALL? NUR 24 STUNDEN ZEIT?
 
-**➡️ [NOTFALL_24H_PLAN.md](NOTFALL_24H_PLAN.md) - JETZT STARTEN!** ⏰  
-**➡️ [MINIMAL_SURVIVAL_GUIDE.md](MINIMAL_SURVIVAL_GUIDE.md) - Nur das Nötigste!** 🆘  
-**➡️ [SPICKZETTEL_STRATEGIE.md](SPICKZETTEL_STRATEGIE.md) - Spickzettel = Geheimwaffe!** 📄
+### ⏰ STARTE HIER - SOFORT! ⏰
+
+**🔥 [SOFORT_STARTEN.md](SOFORT_STARTEN.md) - LIES DAS ZUERST!** 🔥
+
+**Dann:**
+1. **[NOTFALL_24H_PLAN.md](NOTFALL_24H_PLAN.md)** - Dein Stunde-für-Stunde Plan
+2. **[MINIMAL_SURVIVAL_GUIDE.md](MINIMAL_SURVIVAL_GUIDE.md)** - Nur das Nötigste zum Bestehen
+3. **[SPICKZETTEL_STRATEGIE.md](SPICKZETTEL_STRATEGIE.md)** - Spickzettel = Deine Geheimwaffe
+
+**Du hast 37.5 Punkte. Du brauchst nur 12-15 mehr. Mit Spickzettel schaffst du das!** ✅
 
 ---
 
